@@ -1,3 +1,27 @@
+/*
+ @licstart  The following is the entire license notice for the JavaScript code in this file.
+
+ The MIT License (MIT)
+
+ Copyright (C) 1997-2020 by Dimitri van Heesch
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ and associated documentation files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge, publish, distribute,
+ sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in all copies or
+ substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ @licend  The above is the entire license notice for the JavaScript code in this file
+*/
 var NAVTREE =
 [
   [ "RadioLib", "index.html", [
@@ -11,11 +35,14 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", null ]
+        [ "Variables", "functions_vars.html", null ],
+        [ "Typedefs", "functions_type.html", null ],
+        [ "Enumerations", "functions_enum.html", null ],
+        [ "Enumerator", "functions_eval.html", null ]
       ] ]
     ] ],
-    [ "Files", null, [
-      [ "File List", "files.html", "files" ]
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
@@ -23,9 +50,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_a_f_s_k_8h_source.html",
-"class_module.html#ad5767216ba9340ae6d86915b12e89bd6",
-"class_s_x1272.html#a9ffe467a6baaeaa079e02c3f1f43f626",
-"dir_79690749eba542503bb1a9a3dbb495e1.html"
+"class_module.html#a4ea888758b4a7784082d513a1e7849a4",
+"class_radio_lib_hal.html#aa4f2bd49aea5a19aa9f85c720b4a883e",
+"class_s_x127x.html",
+"classn_r_f24.html#a3563453988a83d22dd07d4691543a300",
+"struct_lo_ra_w_a_n_band__t.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
